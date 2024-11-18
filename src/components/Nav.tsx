@@ -14,12 +14,6 @@ const Nav = () => {
           <Link to="/candidates" className='text-white hover:text-gray-300'>
           Candidates
           </Link>
-          <Link to="/jobs" className='text-white hover:text-gray-300'>
-          Jobs
-          </Link>
-          <Link to="/profile" className='text-white hover:text-gray-300'>
-          Profile
-          </Link>
         </div>
       </div>
     </nav>
