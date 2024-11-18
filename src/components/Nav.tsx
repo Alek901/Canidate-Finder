@@ -8,10 +8,10 @@ const Nav = () => {
         Candidate Finder
         </Link>
         <div className='flex space-x-6'>
-          <link to="/" className='text-white hover:text-gray-300'>
+          <Link to="/" className='text-white hover:text-gray-300'>
           Home
           </Link>
-          <link to="/candidates" className='text-white hover:text-gray-300'>
+          <Link to="/candidates" className='text-white hover:text-gray-300'>
           Candidates
           </Link>
           <Link to="/jobs" className='text-white hover:text-gray-300'>
