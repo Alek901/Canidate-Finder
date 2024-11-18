@@ -7,7 +7,12 @@ const Nav = () => {
         <link to="/" className='text-white text-x1 font bold'>
         Candidate Finder
         </link>
-        
+        <div className='flex space-x-6'>
+          <link to="/" className='text-white hover:text-gray-300'>
+          Home
+          </link>
+          
+        </div>
       </div>
     </nav>
     <div>Nav</div>
